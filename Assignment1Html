@@ -15,7 +15,21 @@
         </style>
       
   </head>   
-  <body><h1>This is a test header</h1>
+  <body>
+    <h1>A how to, on Engine building</h1>
+    <h2>By Jehron Dick</h2>
+      <p>
+      <strong>Introduction:</strong>
+      </p>
+    <p>
+    The Most important part of any vehicle is the engine, be it Gasoline, Diesel or Electric. 
+    Without a working or powerful enough engine, a vehicle cannot fullfill it's role in transportation.
+    During the Covid 19 pandemic of 2021, I decided to use the isolation time to see to completion a long 
+    dreamt project.
+    
+    I will in this article go over some of the more important steps and things to consider, before, during and after
+    an Engine rebuild for a gasoline internal combustion engine.
+    </p>
     <img src="https://avatars.githubusercontent.com/u/81543193?v=4" alt="An image of github default profile image " />
   </body>
 </html>
