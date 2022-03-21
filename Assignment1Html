@@ -6,32 +6,31 @@
       Jehron's IT 3203 Web Development Assignment 1
       </title>
         <style>
-          img {
-          
-            width: 100px;
+          img {          
+            width: 200px;
             border-radius: 50px;
               float: left;
               margin-right: 10px;
-            }
+              }              
         </style>
-      
-  </head>   
-  <body>
+      <img src="https://i.imgur.com/cLH8CtO.jpg" alt="A Picture of my engine in my garage"/>
     <h1>A How To, On Engine Building</h1>
-    <h5>By Jehron Dick</h5>
+    <h4>By Jehron Dick</h4>
       <p>
+      <hr/>
       <strong>Introduction:</strong>
-      </p>
     <p>
+
     The Most important part of any vehicle is the engine, be it Gasoline, Diesel or Electric. 
+    <br>
     Without a working or powerful enough engine, a vehicle cannot fullfill it's role in transportation.
+    <br>
     During the Covid 19 pandemic of 2021, I decided to use the isolation time to see to completion a long 
     dreamt project.
-    
+    <br>
     I will in this article go over some of the more important steps and things to consider, before, during and after
     an Engine rebuild for a gasoline internal combustion engine.
-    </p>
-    <img src="https://i.imgur.com/syL0CEH.jpeg" alt="A Test Image to make sure google photos works" align="right" />
     
-  </body>
+    </p>
+    </body>
 </html>
