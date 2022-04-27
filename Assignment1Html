@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-  
+<link rel="stylesheet" href="styles.css">
+
+<li><a href="index.html">Home</a> </li>  
+<li><a href="About Us.html">About Us:Those Who Helped</a></li> 
+<li><a href="page3.html">Page3</a></li>
+<li><a href="milestone2.html">Interactive Horsepower Guide</a></li>
+<br>
+
   <head>
+      <meta charset="utf-8">
       <title> 
-      Jehron's IT 3203 Web Development Assignment 1
+      Jehron's IT 3203 Web Development Assignment,KSU Spring 2022 Intro to Web Development Section 01
       </title>
         <style>
           img {          
@@ -14,13 +22,16 @@
               }              
         </style>
       <img src="https://i.imgur.com/cLH8CtO.jpg" alt="A Picture of my engine in my garage"/>
-    <h1>A How To, On Engine Building</h1>
-    <h4>By Jehron Dick</h4>
+    <header>
+        <h1>A How To, On Engine Building</h1>
+        <h4>By Jehron Dick</h4>
+    </header>
       <p>
       <hr/>
-      <h3><strong>Introduction:</strong></h3>
+      <h3><strong>Introduction: This Website is a School Assignment, KSU Spring 2022</strong></h3>
     <p>
 
+      
     The Most important part of any vehicle is the engine, be it Gasoline, Diesel or Electric. 
     <br>
     Without a working or powerful enough engine, a vehicle cannot fullfill it's role in transportation.
@@ -28,12 +39,13 @@
     During the Covid 19 pandemic of 2021, I decided to use the isolation time to see to completion a long 
     dreamt project.
     <br>
+    <h3>Description and Purpose</h3>
     I will in this article go over some of the more important steps and things to consider, before, during and after
     an Engine rebuild for a gasoline internal combustion engine. This will be a general guide on the process and common
     practices that have been taught to me, and learned through shop manuals and respected engine builders. With this website I
     hope to encourage other people, who may be interested but apprehensive in attempting similar projects.
     
-    <h3><strong>Step 1:Research and Preparation</strong></h3>
+    <h3><strong>Step 0:Research</strong></h3>
     Prior to starting a project, especially one as crutial as an Engine build. There should be a full understanding and respect
     to the work that was done by the manufacturer's engineers. Factory engines are built with 3 contrasting goals, (1)Cost (2) Emmissions
     (3) Performace goals. Understanding where your Engine is designed to operate will help in understanding, it's strengths and weaknesses.
@@ -47,7 +59,25 @@
     <br>
     <br>
     <strong>An old saying comes to mind,Fast or Cheap? You can only pick one...</strong>
+    <ul type="square">
+
+<hr>
+        <h3><strong>Info and Tips</strong></h3>
+        <li><a href="About Us.html">About Us:Those Who Helped</a></li> 
+        <li><a href="Unit Conversion.html">Unit Conversion Table</a></li>
+        <li><a href="page3.html">Page3</a></li>
+        <li></li>
+        
+    </ul>
+
     
+    <footer>
+      <p>This Website was created for a School Project Spring 2022,Intro to Web Development Section 01, KSU  </p>
+      <a href="http://it5443.azurewebsites.net">KSU Azure IT5443 Web Technology and Application Development</a>
+  </footer>
+  <img src="https://webstatic.kennesaw.edu/_omni/images/global/logo_mobile.png?v=1" alt="Image of KSU Logo">
+  <a href="http://ccse.kennesaw.edu/it"><br>KSU Information Technology</a>
     </p>
+    
     </body>
 </html>
