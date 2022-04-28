@@ -2,6 +2,7 @@
 <html lang="en">
 <link rel="stylesheet" href="styles.css">
 
+
 <li><a href="index.html">Home</a> </li>  
 <li><a href="About Us.html">About Us:Those Who Helped</a></li> 
 <li><a href="page3.html">Page3</a></li>
@@ -28,7 +29,9 @@
     </header>
       <p>
       <hr/>
-      <h3><strong>Introduction: This Website is a School Assignment, KSU Spring 2022</strong></h3>
+      <div class="mainheader">
+        <h3><strong>Introduction: This Website is a School Assignment, KSU Spring 2022</strong></h3>
+      </div>
     <p>
 
       
@@ -37,15 +40,22 @@
     Without a working or powerful enough engine, a vehicle cannot fullfill it's role in transportation.
     <br>
     During the Covid 19 pandemic of 2021, I decided to use the isolation time to see to completion a long 
-    dreamt project.
+    dreamt project.</p>
     <br>
-    <h3>Description and Purpose</h3>
+    <div class="mainheader">
+      <h3>Description and Purpose</h3>
+    </div>
+    
+    <p>
     I will in this article go over some of the more important steps and things to consider, before, during and after
     an Engine rebuild for a gasoline internal combustion engine. This will be a general guide on the process and common
     practices that have been taught to me, and learned through shop manuals and respected engine builders. With this website I
     hope to encourage other people, who may be interested but apprehensive in attempting similar projects.
-    
-    <h3><strong>Step 0:Research</strong></h3>
+    </p>
+    <div class="mainheader">
+      <h3><strong>Step 0:Research</strong></h3>
+    </div>
+    <p>
     Prior to starting a project, especially one as crutial as an Engine build. There should be a full understanding and respect
     to the work that was done by the manufacturer's engineers. Factory engines are built with 3 contrasting goals, (1)Cost (2) Emmissions
     (3) Performace goals. Understanding where your Engine is designed to operate will help in understanding, it's strengths and weaknesses.
@@ -53,6 +63,7 @@
     Many shop manuals are available online for free, and for your platform many existing forums have dedicated OEM shop manuals available and is prefered.
     <br>
     At this time,be honest to yourself.
+    </p>
     <br>
     <br>
     <strong>What are your goals?Power?Reliability?Cost?</strong>
@@ -62,11 +73,12 @@
     <ul type="square">
 
 <hr>
-        <h3><strong>Info and Tips</strong></h3>
+        <div class="mainheader">
+          <h3><strong>Info and Tips</strong></h3>
+        </div>
         <li><a href="About Us.html">About Us:Those Who Helped</a></li> 
         <li><a href="Unit Conversion.html">Unit Conversion Table</a></li>
         <li><a href="page3.html">Page3</a></li>
-        <li></li>
         
     </ul>
 
@@ -77,7 +89,7 @@
   </footer>
   <img src="https://webstatic.kennesaw.edu/_omni/images/global/logo_mobile.png?v=1" alt="Image of KSU Logo">
   <a href="http://ccse.kennesaw.edu/it"><br>KSU Information Technology</a>
-    </p>
+    
     
     </body>
 </html>
